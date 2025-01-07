@@ -12,12 +12,6 @@
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JongHyun070105&theme=react-dark&area=true&hide_border=true)
 
-<style>
-  img {
-    pointer-events: none;
-  }
-</style>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JongHyun070105&show_icons=true&theme=dark" height="165">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
