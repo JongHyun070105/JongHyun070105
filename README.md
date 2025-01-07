@@ -1,8 +1,8 @@
-### 🌟 "The only way to do great work is to love what you do." - Steve Jobs
+### 🌟 "시작하면 끝까지"
 
 ### 🛠 Tech Stack
 - **Languages**: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white), 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white), 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - **Frameworks**: ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white), 
