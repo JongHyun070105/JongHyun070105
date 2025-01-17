@@ -1,3 +1,7 @@
+### 👨‍💻 About Me
+- 🌱 Currently learning: Kotlin, Java, Android development
+- 🎯 Goal: Becoming a skilled Android developer
+  
 ### 🛠 Tech Stack
 - **Languages**: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white), 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white), 
