@@ -15,7 +15,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white), 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-![JongHyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JongHyun070105)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JongHyun070105&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97">
