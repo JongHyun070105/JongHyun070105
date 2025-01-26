@@ -90,5 +90,5 @@ C#                       1 repo              ███░░░░░░░░�
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JongHyun070105&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyun070105&layout=compact&langs_count=4&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide=php&hide_repo=EcoStep">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyun070105&layout=compact&langs_count=4&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide=php&hide_repo=EcoStep,mimir,git-session">
 </p>
