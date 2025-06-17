@@ -1,10 +1,10 @@
 ### 👨‍💻 About Me
-- 🌱 Currently learning: Kotlin, Java, Android development
-- 🎯 Goal: Becoming a skilled Android developer
+- 🌱 Currently learning: Kotlin, Flutter, Mobile App development
+- 🎯 Goal: Becoming a skilled Mobile App developer
 
 ### 🛠 Tech Stack
 - **Languages**: ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white), 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 - **Tools**:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white), 
