@@ -14,20 +14,69 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2041%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-3.61%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 224.7 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 224.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 576 만큼의 Contributions을 2026년에 했어요
+> 🏆 578 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 39개의 Public Repository를 만들었어요. 
  > 
-> 🔑 23개의 Private Repository를 만들었어요. 
+> 🔑 24개의 Private Repository를 만들었어요. 
  > 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+🌆 낮　                     353 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌃 저녁                     1022 commits        ███████████████░░░░░░░░░░   58.70 % 
+🌙 밤　                     111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+```
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      249 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+화요일                      287 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+수요일                      263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+목요일                      330 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+금요일                      243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+토요일                      203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+일요일                      166 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+이번 주에 활동은 없어요.
+
+🔥 에디터들: 
+이번 주에 활동은 없어요.
+
+🐱‍💻 프로젝트들: 
+이번 주에 활동은 없어요.
+
+💻 운영 체제들: 
+이번 주에 활동은 없어요.
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **저는 주로 Dart 언어를 사용해요.** 
 
 ```text
@@ -41,7 +90,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 17:05:15 UTC
+ Last Updated on 29/07/2026 16:46:30 UTC
 <!--END_SECTION:waka-->
 
 <p>
