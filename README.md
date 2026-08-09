@@ -22,9 +22,9 @@
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 230.5 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 230.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 603 만큼의 Contributions을 2026년에 했어요
+> 🏆 604 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,21 +35,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-🌆 낮　                     367 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-🌃 저녁                     1038 commits        ███████████████░░░░░░░░░░   58.61 % 
-🌙 밤　                     111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+🌞 아침                     255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+🌆 낮　                     367 commits         █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+🌃 저녁                     1039 commits        ███████████████░░░░░░░░░░   58.63 % 
+🌙 밤　                     111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-화요일                      288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-수요일                      267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-목요일                      339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-금요일                      247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-토요일                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-일요일                      169 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+월요일                      254 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+화요일                      288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+수요일                      267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+목요일                      339 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+금요일                      247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+토요일                      207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+일요일                      170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
 
 
@@ -59,48 +59,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Dart                     59 mins             ████████░░░░░░░░░░░░░░░░░   32.83 % 
-Swift                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Other                    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Dart                     59 mins             █████████████░░░░░░░░░░░░   53.89 % 
+Other                    21 mins             █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+XML                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 에디터들: 
-VS Code                  1 hr 28 mins        ████████████░░░░░░░░░░░░░   48.93 % 
-Simulator                1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.06 % 
-Antigravity Desktop      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Simulator                54 mins             ████████████░░░░░░░░░░░░░   49.01 % 
+VS Code                  36 mins             ████████░░░░░░░░░░░░░░░░░   32.91 % 
+Antigravity Desktop      20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
 
 🐱‍💻 프로젝트들: 
-PRESS                    1 hr 21 mins        ███████████░░░░░░░░░░░░░░   44.95 % 
-bottled                  51 mins             ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-baseball-project         19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-toss-auto-trader-lab     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-baseball                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+PRESS                    1 hr 21 mins        ██████████████████░░░░░░░   73.79 % 
+toss-auto-trader-lab     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+baseball                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+bottled                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 1 min (99.85%)
+⏱ AI Coding Time: 1 hr 50 mins (99.75%)
 
-✍️ 5,389 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,687 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 109,636,919 Input Tokens, 388,297 Output Tokens
+🔤 47,859,021 Input Tokens, 179,400 Output Tokens
 
-💵 $345.72 Estimated AI Cost This Week
+💵 $127.05 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 30 AI Prompts
+🧠 13 AI Sessions, 19 AI Prompts
 
-GPT                      4,979 lines         ███████████████████████░░   91.54 % 
-Vscode-Wakatime          409 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Gemini                   51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+GPT                      2,266 lines         █████████████████████░░░░   83.13 % 
+Vscode-Wakatime          409 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Gemini                   51 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 14,923 characters per prompt
+📚 Verbose Prompter — average 11,620 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -118,7 +117,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 15:49:48 UTC
+ Last Updated on 09/08/2026 15:54:58 UTC
 <!--END_SECTION:waka-->
 
 <p>
