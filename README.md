@@ -14,17 +14,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-98%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.23%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.24%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 233.3 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 233.8 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 627 만큼의 Contributions을 2026년에 했어요
+> 🏆 641 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,21 +35,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-🌆 낮　                     369 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-🌃 저녁                     1059 commits        ███████████████░░░░░░░░░░   59.03 % 
-🌙 밤　                     111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+🌞 아침                     255 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+🌆 낮　                     375 commits         █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+🌃 저녁                     1066 commits        ███████████████░░░░░░░░░░   58.99 % 
+🌙 밤　                     111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 ```
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-화요일                      291 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-수요일                      268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-목요일                      340 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-금요일                      248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-토요일                      208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-일요일                      180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+월요일                      265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+화요일                      298 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+수요일                      268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+목요일                      340 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+금요일                      248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+토요일                      208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+일요일                      180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 
 
@@ -59,39 +59,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    59 mins             █████████████████████████   98.69 % 
-Shell                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Python                   5 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
+Dart                     3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Markdown                 2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 🔥 에디터들: 
-Notion                   59 mins             █████████████████████████   98.69 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Codex Vscode             7 hrs 56 mins       ████████████████░░░░░░░░░   63.32 % 
+Simulator                3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+DockerDesktop            50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Notion                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 프로젝트들: 
-PRESS                    59 mins             █████████████████████████   98.69 % 
-antigravity_phone_chat   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+openloop                 8 hrs 24 mins       █████████████████░░░░░░░░   67.01 % 
+bitcoin-trader           3 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.77 % 
+PRESS                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 운영 체제들: 
-Mac                      1 hr                █████████████████████████   100.00 % 
+Mac                      12 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (1.31%)
+⏱ AI Coding Time: 12 hrs 26 mins (99.21%)
 
-✍️ 58 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 23,670 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 72,656 Input Tokens, 809 Output Tokens
+🔤 116,143,100 Input Tokens, 11,395,909 Output Tokens
 
-💵 $0.39 Estimated AI Cost This Week
+💵 $336.81 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 66 AI Sessions, 83 AI Prompts
 
-GPT                      58 lines            █████████████████████████   100.00 % 
+GPT                      23,977 lines        █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
+📚 Verbose Prompter — average 16,131 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -99,8 +107,8 @@ GPT                      58 lines            ███████████�
 **저는 주로 Dart 언어를 사용해요.** 
 
 ```text
-Dart                     22 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
-Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     23 repos            ██████████░░░░░░░░░░░░░░░   38.33 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
@@ -109,7 +117,7 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 15:43:12 UTC
+ Last Updated on 18/08/2026 15:58:43 UTC
 <!--END_SECTION:waka-->
 
 <p>
