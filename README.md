@@ -22,9 +22,9 @@
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 254.3 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 254.5 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 708 만큼의 Contributions을 2026년에 했어요
+> 🏆 709 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,21 +35,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-🌆 낮　                     402 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-🌃 저녁                     1092 commits        ███████████████░░░░░░░░░░   58.27 % 
-🌙 밤　                     112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+🌞 아침                     268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+🌆 낮　                     403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+🌃 저녁                     1092 commits        ███████████████░░░░░░░░░░   58.24 % 
+🌙 밤　                     112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-화요일                      298 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-수요일                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-목요일                      352 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-금요일                      250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+월요일                      270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+화요일                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+수요일                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+목요일                      352 commits         █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+금요일                      250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 토요일                      218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-일요일                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+일요일                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 ```
 
 
@@ -59,51 +59,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    11 hrs              ████████████░░░░░░░░░░░░░   47.46 % 
-Dart                     4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-JavaScript               1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
-CSS                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Markdown                 1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    11 hrs              ██████████████░░░░░░░░░░░   56.34 % 
+Dart                     3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+CSS                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Swift                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 에디터들: 
-Antigravity Desktop      10 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.03 % 
-Codex Vscode             7 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Simulator                4 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
-DockerDesktop            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Hermes                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Antigravity Desktop      10 hrs 26 mins      █████████████░░░░░░░░░░░░   53.45 % 
+Codex Vscode             4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+Simulator                4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+DockerDesktop            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Hermes                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🐱‍💻 프로젝트들: 
-openloop                 20 hrs 34 mins      ██████████████████████░░░   88.71 % 
-bitcoin-trader           2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-toss-auto-trader-lab     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+openloop                 16 hrs 55 mins      ██████████████████████░░░   86.59 % 
+bitcoin-trader           2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+toss-auto-trader-lab     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 운영 체제들: 
-Mac                      23 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 35 mins (97.42%)
+⏱ AI Coding Time: 18 hrs 56 mins (96.94%)
 
-✍️ 7,674 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,772 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 74,705,031 Input Tokens, 8,106,969 Output Tokens
+🔤 53,797,208 Input Tokens, 5,881,588 Output Tokens
 
-💵 $3098.93 Estimated AI Cost This Week
+💵 $3023.57 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 273 AI Prompts
+🧠 20 AI Sessions, 254 AI Prompts
 
-GPT                      6,973 lines         ██████████████████████░░░   86.60 % 
-Gemini                   635 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Antigravity-Desktop      316 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Opus                     83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Codex-Vscode             45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+GPT                      4,256 lines         █████████████████████░░░░   84.80 % 
+Gemini                   635 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Opus                     83 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Codex-Vscode             45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 492 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 425 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -120,7 +119,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 16:05:45 UTC
+ Last Updated on 25/08/2026 16:07:09 UTC
 <!--END_SECTION:waka-->
 
 <p>
