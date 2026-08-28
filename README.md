@@ -22,9 +22,9 @@
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 254.9 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 255.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 710 만큼의 Contributions을 2026년에 했어요
+> 🏆 711 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,19 +35,19 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-🌆 낮　                     403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-🌃 저녁                     1094 commits        ███████████████░░░░░░░░░░   58.28 % 
-🌙 밤　                     112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+🌞 아침                     268 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+🌆 낮　                     403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+🌃 저녁                     1095 commits        ███████████████░░░░░░░░░░   58.31 % 
+🌙 밤　                     112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 ```
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
 월요일                      270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-화요일                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-수요일                      301 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-목요일                      352 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-금요일                      250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+화요일                      299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+수요일                      301 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+목요일                      353 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+금요일                      250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 토요일                      218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 일요일                      187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
@@ -59,66 +59,64 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    10 hrs 50 mins      ███████████████░░░░░░░░░░   59.71 % 
-Dart                     2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-CSS                      1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Swift                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Other                    4 hrs 56 mins       ████████████████░░░░░░░░░   62.96 % 
+JavaScript               1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+CSS                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Dart                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 에디터들: 
-Antigravity Desktop      9 hrs 25 mins       █████████████░░░░░░░░░░░░   51.93 % 
-Codex Vscode             4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Simulator                3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-DockerDesktop            18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Notion                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Antigravity Desktop      4 hrs 10 mins       █████████████░░░░░░░░░░░░   53.15 % 
+Codex Vscode             1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Simulator                1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+DockerDesktop            10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Notion                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🐱‍💻 프로젝트들: 
-openloop                 15 hrs 32 mins      █████████████████████░░░░   85.57 % 
-bitcoin-trader           2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-toss-auto-trader-lab     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+openloop                 7 hrs 31 mins       ████████████████████████░   95.85 % 
+bitcoin-trader           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 운영 체제들: 
-Mac                      18 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 43 mins (97.62%)
+⏱ AI Coding Time: 7 hrs 36 mins (96.89%)
 
-✍️ 4,176 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 795 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 53,797,208 Input Tokens, 5,881,588 Output Tokens
+🔤 22,439,159 Input Tokens, 2,412,912 Output Tokens
 
-💵 $3023.57 Estimated AI Cost This Week
+💵 $2774.70 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 241 AI Prompts
+🧠 3 AI Sessions, 98 AI Prompts
 
-GPT                      4,256 lines         █████████████████████████   98.95 % 
-Codex-Vscode             45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      803 lines           █████████████████████████   99.88 % 
+Codex-Vscode             1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 443 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
+📝 Concise Prompter — average 181 characters per prompt
+🔁 Iterative Prompter — average 33 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **저는 주로 Dart 언어를 사용해요.** 
 
 ```text
-Dart                     22 repos            █████████░░░░░░░░░░░░░░░░   36.67 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Dart                     22 repos            █████████░░░░░░░░░░░░░░░░   36.07 % 
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 
 
 
- Last Updated on 26/08/2026 16:46:05 UTC
+ Last Updated on 28/08/2026 00:39:40 UTC
 <!--END_SECTION:waka-->
 
 <p>
