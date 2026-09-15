@@ -14,17 +14,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-391%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%2029%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-36.02%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-41.91%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 256.1 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 256.6 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 882 만큼의 Contributions을 2026년에 했어요
+> 🏆 929 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,21 +35,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     1919 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-🌆 낮　                     2153 commits        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-🌃 저녁                     4752 commits        ████████████░░░░░░░░░░░░░   49.22 % 
-🌙 밤　                     831 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+🌞 아침                     2408 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌆 낮　                     2742 commits        ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+🌃 저녁                     5407 commits        ████████████░░░░░░░░░░░░░   47.00 % 
+🌙 밤　                     947 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 ```
 📅 **제가 가장 생산적인 날은 토요일이에요.** 
 
 ```text
-월요일                      1060 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-화요일                      1169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-수요일                      1470 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-목요일                      1406 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-금요일                      1170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-토요일                      1824 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-일요일                      1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+월요일                      1474 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+화요일                      1361 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+수요일                      1796 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+목요일                      1609 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+금요일                      1289 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+토요일                      2146 commits        █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+일요일                      1829 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
 ```
 
 
@@ -116,7 +116,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 20:19:03 UTC
+ Last Updated on 15/09/2026 19:16:47 UTC
 <!--END_SECTION:waka-->
 
 <p>
