@@ -18,38 +18,38 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-22.72%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-22.77%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 257.6 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 257.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 994 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,016 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 46개의 Public Repository를 만들었어요. 
  > 
-> 🔑 24개의 Private Repository를 만들었어요. 
+> 🔑 25개의 Private Repository를 만들었어요. 
  > 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     1244 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-🌆 낮　                     1668 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-🌃 저녁                     4200 commits        █████████████░░░░░░░░░░░░   53.07 % 
-🌙 밤　                     802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+🌞 아침                     1248 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+🌆 낮　                     1690 commits        █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+🌃 저녁                     4225 commits        █████████████░░░░░░░░░░░░   53.04 % 
+🌙 밤　                     802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-화요일                      1122 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-수요일                      1164 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-목요일                      1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-금요일                      1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-토요일                      1206 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-일요일                      946 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+월요일                      1203 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+화요일                      1124 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+수요일                      1164 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+목요일                      1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+금요일                      1046 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+토요일                      1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+일요일                      948 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
 ```
 
 
@@ -59,50 +59,50 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    19 hrs 49 mins      ██████████████████░░░░░░░   73.18 % 
-Python                   4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    15 hrs 38 mins      ██████████████████░░░░░░░   70.58 % 
+Python                   3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 에디터들: 
-Antigravity Desktop      15 hrs 57 mins      ███████████████░░░░░░░░░░   58.88 % 
-Codex Vscode             4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Notion                   3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-VS Code                  2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Hermes                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Antigravity Desktop      12 hrs 5 mins       ██████████████░░░░░░░░░░░   54.57 % 
+Codex Vscode             4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Notion                   3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+VS Code                  1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Hermes                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🐱‍💻 프로젝트들: 
-bitcoin-trader           21 hrs 25 mins      ████████████████████░░░░░   79.07 % 
-DeepLearning             3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-computer-network         1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-reviewai_flutter         30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+bitcoin-trader           17 hrs 30 mins      ████████████████████░░░░░   79.02 % 
+DeepLearning             2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+computer-network         1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+reviewai_flutter         30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 운영 체제들: 
-Mac                      27 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      22 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 43 mins (80.22%)
+⏱ AI Coding Time: 17 hrs 32 mins (79.19%)
 
-✍️ 2,910 lines written by AI, 8,756 lines written by hand (24.94% AI-written)
+✍️ 2,910 lines written by AI, 4,638 lines written by hand (38.55% AI-written)
 
 🔤 3,215,179 Input Tokens, 454,318 Output Tokens
 
 💵 $101.41 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 81 AI Prompts
+🧠 19 AI Sessions, 48 AI Prompts
 
 GPT                      2,775 lines         ████████████████████████░   94.52 % 
 Codex-Vscode             161 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.94% of written lines came from AI
-📚 Verbose Prompter — average 3,031 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 85.35% of changed lines were hand-edited
+⚖️ Balanced with AI — 38.55% of written lines came from AI
+📚 Verbose Prompter — average 3,490 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 75.16% of changed lines were hand-edited
 ```
 
 **저는 주로 Dart 언어를 사용해요.** 
@@ -118,7 +118,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 19:30:33 UTC
+ Last Updated on 24/09/2026 19:34:43 UTC
 <!--END_SECTION:waka-->
 
 <p>
