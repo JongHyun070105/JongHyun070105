@@ -18,13 +18,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-36.76%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-37.81%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 263.9 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 265.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 1,052 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,082 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,21 +35,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     2195 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-🌆 낮　                     2892 commits        ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-🌃 저녁                     6078 commits        ████████████░░░░░░░░░░░░░   48.57 % 
-🌙 밤　                     1348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+🌞 아침                     2290 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+🌆 낮　                     3025 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌃 저녁                     6203 commits        ████████████░░░░░░░░░░░░░   48.00 % 
+🌙 밤　                     1406 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
 ```
 📅 **제가 가장 생산적인 날은 월요일이에요.** 
 
 ```text
-월요일                      2024 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-화요일                      1642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-수요일                      1876 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-목요일                      1974 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-금요일                      1439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-토요일                      1982 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-일요일                      1576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+월요일                      2100 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+화요일                      1711 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+수요일                      1948 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+목요일                      2043 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+금요일                      1470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+토요일                      2033 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+일요일                      1619 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 ```
 
 
@@ -59,62 +59,42 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   2 hrs 21 mins       ████████████████████░░░░░   78.61 % 
-Bash                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   2 hrs 21 mins       █████████████████████████   99.15 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 22 mins       ████████████████████░░░░░   79.29 % 
-Codex Vscode             32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Notion                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   99.75 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 프로젝트들: 
-computer-network         1 hr 31 mins        █████████████░░░░░░░░░░░░   50.85 % 
-DeepLearning             49 mins             ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-bitcoin-trader           37 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-krx-short-term-trader    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+computer-network         1 hr 31 mins        ████████████████░░░░░░░░░   64.14 % 
+DeepLearning             49 mins             █████████░░░░░░░░░░░░░░░░   35.01 % 
+krx-short-term-trader    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (20.71%)
-
-✍️ 114 lines written by AI, 9,103 lines written by hand (1.24% AI-written)
-
-🔤 912,167 Input Tokens, 42,742 Output Tokens
-
-💵 $9.47 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-GPT                      138 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.24% of written lines came from AI
-📄 Detailed Prompter — average 1,303 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 99.36% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **저는 주로 Dart 언어를 사용해요.** 
 
 ```text
-Python                   10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
 
 
- Last Updated on 28/09/2026 21:55:48 UTC
+ Last Updated on 29/09/2026 20:46:20 UTC
 <!--END_SECTION:waka-->
 
 <p>
