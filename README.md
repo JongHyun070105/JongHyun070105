@@ -18,20 +18,65 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-124%20hrs%2027%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-41.90%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-42.21%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 270.2 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 270.9 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 1,122 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,125 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
 > 📜 49개의 Public Repository를 만들었어요. 
  > 
-> 🔑 24개의 Private Repository를 만들었어요. 
+> 🔑 25개의 Private Repository를 만들었어요. 
  > 
+**저는 저녁형 인간이에요. 🦉** 
+
+```text
+🌞 아침                     2652 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+🌆 낮　                     3612 commits        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+🌃 저녁                     6947 commits        ████████████░░░░░░░░░░░░░   46.58 % 
+🌙 밤　                     1702 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+```
+📅 **제가 가장 생산적인 날은 목요일이에요.** 
+
+```text
+월요일                      2323 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+화요일                      1877 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+수요일                      2183 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+목요일                      2423 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+금요일                      2008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+토요일                      2252 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+일요일                      1847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+```
+
+
+📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+
+```text
+🕑︎ Timezone: Asia/Seoul
+
+💬 프로그래밍 언어들: 
+Bash                     4 mins              █████████████████████████   100.00 % 
+
+🔥 에디터들: 
+VS Code                  4 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 프로젝트들: 
+village-coverage         4 mins              █████████████████████████   100.00 % 
+
+💻 운영 체제들: 
+Mac                      4 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **저는 주로 Dart 언어를 사용해요.** 
 
 ```text
@@ -45,7 +90,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 19:22:20 UTC
+ Last Updated on 05/10/2026 22:45:45 UTC
 <!--END_SECTION:waka-->
 
 <p>
