@@ -14,17 +14,17 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-129%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-42.48%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-43.42%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 271.9 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 279.0 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 1,175 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,311 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -35,21 +35,21 @@
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
-🌞 아침                     2685 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-🌆 낮　                     3671 commits        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-🌃 저녁                     7123 commits        ████████████░░░░░░░░░░░░░   46.82 % 
-🌙 밤　                     1733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+🌞 아침                     2825 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌆 낮　                     3855 commits        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+🌃 저녁                     7264 commits        ███████████░░░░░░░░░░░░░░   45.97 % 
+🌙 밤　                     1857 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
 ```
 📅 **제가 가장 생산적인 날은 목요일이에요.** 
 
 ```text
-월요일                      2329 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-화요일                      2029 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-수요일                      2192 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-목요일                      2454 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-금요일                      2080 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-토요일                      2259 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-일요일                      1869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+월요일                      2345 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+화요일                      2065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+수요일                      2254 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+목요일                      2573 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+금요일                      2368 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+토요일                      2283 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+일요일                      1913 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
 ```
 
 
@@ -59,54 +59,52 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Python                   27 hrs 21 mins      ██████████████░░░░░░░░░░░   57.38 % 
-Markdown                 8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Other                    5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-TypeScript               4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-CSS                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Python                   25 hrs 35 mins      ██████████████░░░░░░░░░░░   56.57 % 
+Markdown                 7 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Other                    5 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+TypeScript               4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+CSS                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 에디터들: 
-Codex Exec               34 hrs 17 mins      ██████████████████░░░░░░░   71.93 % 
-Claude Code              6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Notion                   6 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Codex Vscode             32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Codex Exec               31 hrs 8 mins       █████████████████░░░░░░░░   68.84 % 
+Claude Code              6 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Notion                   6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+VS Code                  48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🐱‍💻 프로젝트들: 
-village-coverage         21 hrs 53 mins      ███████████░░░░░░░░░░░░░░   45.92 % 
-krx-short-term-trader    11 hrs 40 mins      ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-bitcoin-trader           11 hrs 14 mins      ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-DeepLearning             1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-agent-accord             57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+village-coverage         21 hrs 30 mins      ████████████░░░░░░░░░░░░░   47.55 % 
+bitcoin-trader           11 hrs 52 mins      ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+krx-short-term-trader    8 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+DeepLearning             1 hr 59 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+computer-network         54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 운영 체제들: 
-Mac                      47 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 hrs 56 mins (96.38%)
+⏱ AI Coding Time: 42 hrs 45 mins (94.54%)
 
-✍️ 67,060 lines written by AI, 661 lines written by hand (99.02% AI-written)
+✍️ 62,973 lines written by AI, 2,820 lines written by hand (95.71% AI-written)
 
-🔤 28,972,947 Input Tokens, 7,806,670 Output Tokens
+🔤 26,540,777 Input Tokens, 7,542,590 Output Tokens
 
-💵 $536.58 Estimated AI Cost This Week
+💵 $581.53 Estimated AI Cost This Week
 
-🧠 83 AI Sessions, 82 AI Prompts
+🧠 72 AI Sessions, 75 AI Prompts
 
-GPT                      49,575 lines        ██████████████████░░░░░░░   73.67 % 
-Opus                     8,279 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Codex-Exec               5,235 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Sonnet                   4,086 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Codex-Vscode             122 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+GPT                      36,683 lines        ███████████████░░░░░░░░░░   58.07 % 
+Opus                     16,461 lines        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Codex-Exec               5,937 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Sonnet                   4,086 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.02% of written lines came from AI
-📚 Verbose Prompter — average 28,332 characters per prompt
+🤖 AI-Driven — 95.71% of written lines came from AI
+📚 Verbose Prompter — average 30,994 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.74% of changed lines were hand-edited
+🚀 High AI Trust — 7.27% of changed lines were hand-edited
 ```
 
 **저는 주로 Dart 언어를 사용해요.** 
@@ -122,7 +120,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 21:03:27 UTC
+ Last Updated on 07/10/2026 21:26:22 UTC
 <!--END_SECTION:waka-->
 
 <p>
