@@ -24,7 +24,7 @@
 
 > 📦 GitHub의 293.7 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 1,362 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,363 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -59,22 +59,51 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Dart                     1 hr 53 mins        ███████████░░░░░░░░░░░░░░   44.31 % 
+Other                    1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   41.27 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+Codex Exec               4 hrs 2 mins        ████████████████████████░   94.79 % 
+Antigravity CLI          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Notes                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 프로젝트들: 
-이번 주에 활동은 없어요.
+reviewai_flutter         3 hrs 31 mins       █████████████████████░░░░   82.51 % 
+bitcoin-trader           30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+orch-engine-smoke        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+computer-network         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+w-223217-150b046a        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      4 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 16 mins (100.0%)
+
+✍️ 889 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,419,754 Input Tokens, 465,262 Output Tokens
+
+💵 $5.97 Estimated AI Cost This Week
+
+🧠 39 AI Sessions, 39 AI Prompts
+
+GPT                      926 lines           ████████████████████████░   97.68 % 
+Gemini                   22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 8,893 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **저는 주로 Dart 언어를 사용해요.** 
@@ -90,7 +119,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 20:15:26 UTC
+ Last Updated on 23/10/2026 20:00:32 UTC
 <!--END_SECTION:waka-->
 
 <p>
