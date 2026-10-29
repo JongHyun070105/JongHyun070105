@@ -22,9 +22,9 @@
 
 **🐱 저의 GitHub 정보에요.** 
 
-> 📦 GitHub의 297.1 kB만큼의 저장소를 사용하고 있어요. 
+> 📦 GitHub의 297.2 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 1,394 만큼의 Contributions을 2026년에 했어요
+> 🏆 1,395 만큼의 Contributions을 2026년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -59,50 +59,49 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    1 hr 11 mins        █████████████░░░░░░░░░░░░   50.33 % 
-Markdown                 37 mins             ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Dart                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Other                    1 hr 11 mins        █████████████░░░░░░░░░░░░   53.21 % 
+Markdown                 37 mins             ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Python                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 에디터들: 
-Codex Exec               1 hr 19 mins        ██████████████░░░░░░░░░░░   55.36 % 
-Codex Vscode             46 mins             ████████░░░░░░░░░░░░░░░░░   32.19 % 
-Notion                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Antigravity CLI          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Codex Exec               1 hr 11 mins        █████████████░░░░░░░░░░░░   52.84 % 
+Codex Vscode             46 mins             █████████░░░░░░░░░░░░░░░░   34.20 % 
+Notion                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Antigravity CLI          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 프로젝트들: 
-village-coverage         1 hr 11 mins        █████████████░░░░░░░░░░░░   50.04 % 
-v1.4.3                   46 mins             ████████░░░░░░░░░░░░░░░░░   32.19 % 
-computer-network         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-reviewai_flutter         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-w-192210-25d2aaf6        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+village-coverage         1 hr 11 mins        █████████████░░░░░░░░░░░░   53.17 % 
+v1.4.3                   46 mins             █████████░░░░░░░░░░░░░░░░   34.20 % 
+computer-network         14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+w-192210-25d2aaf6        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+w-071410-a5867ccb        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 운영 체제들: 
-Mac                      2 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 10 mins (91.41%)
+⏱ AI Coding Time: 2 hrs 2 mins (90.87%)
 
 ✍️ 1,292 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,805,697 Input Tokens, 394,246 Output Tokens
+🔤 2,661,755 Input Tokens, 369,246 Output Tokens
 
-💵 $14.94 Estimated AI Cost This Week
+💵 $14.76 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 30 AI Prompts
+🧠 27 AI Sessions, 28 AI Prompts
 
-GPT                      1,295 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,292 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,316 characters per prompt
+📚 Verbose Prompter — average 10,378 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -120,7 +119,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 21:25:53 UTC
+ Last Updated on 29/10/2026 21:16:47 UTC
 <!--END_SECTION:waka-->
 
 <p>
