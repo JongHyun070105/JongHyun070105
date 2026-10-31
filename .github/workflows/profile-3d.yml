@@ -4,8 +4,9 @@ on:
   push:
     paths:
       - ".github/workflows/profile-3d.yml"
+      - "scripts/clean_3d_contributions.py"
   schedule:
-    # 03:17 Asia/Seoul (18:17 UTC the previous day)
+    # 03:17 Asia/Seoul
     - cron: "17 18 * * *"
   workflow_dispatch:
 
@@ -23,19 +24,23 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate real contribution history
+      - name: Generate contribution SVGs
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit generated SVGs only when changed
+      - name: Keep only the 3D calendar
+        run: python3 scripts/clean_3d_contributions.py
+
+      - name: Commit clean SVGs when changed
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
+          git add profile-3d-contrib/profile-night-rainbow-clean.svg
+          git add profile-3d-contrib/profile-season-clean.svg
           if ! git diff --cached --quiet; then
-            git commit -m "chore: refresh 3D contributions"
+            git commit -m "chore: update minimal 3D contribution calendars"
             git push
           fi
