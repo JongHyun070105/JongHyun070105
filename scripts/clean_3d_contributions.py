@@ -31,7 +31,7 @@ def parse_metrics(radar, summary):
         raise ValueError("The upstream radar has changed unexpectedly.")
 
     labels = summary.findall(Q("text"))
-    if len(labels) != 4 or (labels[1].text or "").strip() != "contributions":
+    if len(labels) != 5 or (labels[1].text or "").strip() != "contributions":
         raise ValueError("The upstream contribution summary has changed.")
 
     def number(node):
