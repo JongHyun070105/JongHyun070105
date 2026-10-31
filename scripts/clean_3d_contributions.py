@@ -68,7 +68,7 @@ def add_live_metrics(svg, metrics):
         })
         count.text = format(value, ",")
         tooltip = ET.SubElement(count, Q("title"))
-        tooltip.text = f"{value:,} {label.lower()} in the contribution period"
+        tooltip.text = (f"{value:,} stars across repositories" if label == "Stars" else f"{value:,} {label.lower()} in the contribution period")
 
 
 expected_metrics = None
