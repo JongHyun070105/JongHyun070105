@@ -89,17 +89,3 @@
     <img src="./profile-3d-contrib/profile-season-clean.svg" alt="최근 약 1년 동안의 GitHub 3D 기여 기록" width="100%" />
   </picture>
 </p>
-
-<div align="center">
-
-[날짜별 기여 내역 · 이전 연도 보기](https://github.com/JongHyun070105)
-
-</div>
-
----
-
-<div align="center">
-
-*Keep building. Keep it simple.*
-
-</div>
