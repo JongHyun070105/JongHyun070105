@@ -1,13 +1,15 @@
 <div align="center">
 
-# JongHyun.
+<sub>JONGHYUN · MOBILE & SOFTWARE</sub>
 
-**Apps, thoughtfully built.**
+# Built with care.
 
-앱을 만드는 일을 가장 좋아합니다.  
-쓰는 사람에게는 자연스럽고, 그 뒤에서는 제대로 동작하는 소프트웨어를 만들고 싶습니다.
+**좋아하는 앱을 직접 만들고, 쓰기 편한 경험을 고민합니다.**
 
-[Featured app](#featured-app) · [Selected work](#selected-work) · [Toolbox](#toolbox) · [Contributions](#contributions)
+앱의 작은 인터랙션부터 그 뒤의 API와 인프라까지.  
+보기에는 단순하고, 실제로는 견고한 제품을 만들고 싶습니다.
+
+[Featured app](#featured-app) · [Other work](#other-work) · [Toolkit](#toolkit) · [Contributions](#contributions)
 
 </div>
 
@@ -15,89 +17,89 @@
 
 ## Featured app
 
-<a href="https://github.com/JongHyun070105/openloop"><img src="https://raw.githubusercontent.com/JongHyun070105/openloop/main/apps/demo/public/openloop-icon.png" alt="OpenLoop app icon" width="76" /></a>
+### 이거 먹자! · <code>how-about-this</code>
 
-### OpenLoop
+**사진 한 장에서 시작하는 음식 리뷰, 그리고 오늘 뭐 먹을지에 대한 고민까지.**
 
-**스크린샷 한 장에서, 해야 할 일까지.**
+음식 사진·음식명·별점과 원하는 스타일을 입력하면 리뷰 초안 3개를 생성하고, 마음에 드는 문장을 선택해 복사할 수 있는 Flutter 앱입니다. 음식 추천과 맛집 탐색도 함께 다룹니다.
 
-채팅, 공지, 포스터처럼 여기저기 흩어진 정보를 캡처하면 AI가 일정과 할 일을 정리합니다.  
-바로 저장하지 않고 **사용자가 확인한 뒤** 캘린더·체크리스트로 이어지는 흐름을 만듭니다.
+<p align="center">
+  <a href="https://github.com/JongHyun070105/how-about-this">
+    <img src="https://raw.githubusercontent.com/JongHyun070105/how-about-this/main/assets/images/promotions/store_promo_panorama_v2_web.png" width="100%" alt="이거 먹자! 실제 앱 프로모션 이미지" />
+  </a>
+</p>
 
-**Capture → Review → Close**
+<sub>Flutter · Dart · Riverpod · Gemini · Cloudflare Workers</sub>
 
-<sub>Flutter · FastAPI · AWS · AI-assisted scheduling</sub>
-
-[Explore OpenLoop](https://github.com/JongHyun070105/openloop)
-
----
-
-## Selected work
-
-### Review AI
-사진과 별점, 사용자 입력을 바탕으로 리뷰 문장 초안을 만드는 모바일 앱입니다.  
-<sub>React Native · Express · Image understanding</sub>  
-[View project](https://github.com/JongHyun070105/review-ai)
-
-### VillageCoverage
-제한된 예산에서 지역별 생활서비스 공급안을 비교하고, 담당자가 근거와 한계를 확인할 수 있도록 만든 의사결정 지원 프로토타입입니다. **현장 검증 전** 단계입니다.  
-<sub>Python · FastAPI · Optimization · Public data</sub>  
-[View project](https://github.com/JongHyun070105/village-coverage) · [Try public demo](https://villagecoverage-public-demo-web.onrender.com)
-
-### OrchBridge
-여러 AI 코딩 CLI의 작업을 연결하고, 대기열·위임·검증·복구를 관리하는 로컬 오케스트레이터입니다.  
-<sub>Python · CLI · Agent orchestration</sub>  
-[View project](https://github.com/JongHyun070105/orch-bridge)
-
-[Explore all repositories](https://github.com/JongHyun070105?tab=repositories)
+[Project details](https://github.com/JongHyun070105/how-about-this) · [Google Play](https://play.google.com/store/apps/details?id=com.jonghyun.reviewai_flutter)
 
 ---
 
-## What I care about
+## Other work
 
-**Small details.** 버튼 한 번, 확인 단계 하나가 사용 경험을 바꾼다고 생각합니다.
+### [OpenLoop](https://github.com/JongHyun070105/openloop)
 
-**Useful software.** 기술을 보여주기보다 실제 문제를 해결하는 앱을 만들고 싶습니다.
+스크린샷과 공지 속 약속·할 일을 구조화하고, **사용자가 확인한 뒤** 일정과 체크리스트로 연결하는 AI Action Calendar입니다.
 
-**The system behind the screen.** 앱의 UI뿐 아니라 API, 네트워크, 배포, 실패했을 때의 동작도 함께 고민합니다.
+<sub>Flutter · FastAPI · AWS</sub>
+
+### [VillageCoverage](https://github.com/JongHyun070105/village-coverage)
+
+제한된 예산과 공급 조건 안에서 농촌 생활서비스 공급안을 비교하는 의사결정 지원 프로토타입입니다. 아직 **현장 검증 전** 단계입니다.
+
+<sub>Python · FastAPI · Optimization</sub>
+
+[Public demo](https://villagecoverage-public-demo-web.onrender.com)
+
+### [OrchBridge](https://github.com/JongHyun070105/orch-bridge)
+
+여러 AI 코딩 CLI의 작업과 위임·검증·복구를 연결하는 로컬 오케스트레이터입니다.
+
+<sub>Python · CLI · Automation</sub>
+
+[All repositories](https://github.com/JongHyun070105?tab=repositories)
 
 ---
 
-## Toolbox
+## A little about me
 
-| | Working with |
+**App first.** 화면을 직접 만지는 재미와 일상에서 쓸모 있는 기능을 좋아합니다.
+
+**Details matter.** 흐름이 끊기지 않는 인터랙션과 자연스러운 사용성을 중요하게 생각합니다.
+
+**Beyond the UI.** 네트워크, API, 배포, 장애 대응처럼 앱을 받쳐 주는 기술도 함께 공부하고 만듭니다.
+
+---
+
+## Toolkit
+
+| | |
 | :-- | :-- |
-| **Mobile** | Flutter · Dart · React Native · Swift · Kotlin |
-| **Web & API** | TypeScript · JavaScript · Python · FastAPI |
-| **Systems** | Git · GitHub Actions · AWS · Linux · Networking |
-
-<details>
-<summary>More about my projects</summary>
-
-- **[TRON Compass](https://github.com/JongHyun070105/tron-compass)** — 사용자 규칙과 검증 가능한 근거를 중심으로 한 TRON 의사결정 실험
-- **[Comtus AI](https://github.com/JongHyun070105/comtus-ai)** — 모바일 게임 분석·자동화 아이디어 탐색
-
-</details>
+| **Mobile** | Flutter · Dart · Swift · Kotlin · React Native |
+| **Web & APIs** | Python · TypeScript · FastAPI · Cloudflare Workers |
+| **Systems** | GitHub Actions · AWS · Linux · Networking |
 
 ---
 
 ## Contributions
 
-실제 GitHub 활동을 기반으로 자동 생성되는 3D 기여 그래프입니다.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow-clean.svg" />
+    <img src="./profile-3d-contrib/profile-season-clean.svg" alt="최근 약 1년 동안의 GitHub 3D 기여 기록" width="100%" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="./profile-3d-contrib/profile-season.svg" width="100%" alt="JongHyun's 3D GitHub contribution history" />
-</picture>
+<div align="center">
 
-<sub>Updated daily with GitHub Actions. The graph represents contributions, not lines of code.</sub>
+[날짜별 기여 내역 · 이전 연도 보기](https://github.com/JongHyun070105)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Make it useful. Make it feel simple.*
-
-[GitHub](https://github.com/JongHyun070105) · [All projects](https://github.com/JongHyun070105?tab=repositories)
+*Keep building. Keep it simple.*
 
 </div>
