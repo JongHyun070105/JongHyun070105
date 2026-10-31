@@ -1,129 +1,103 @@
-### 👨‍💻 About Me
-- 🌱 Currently learning: Kotlin, Swift, Flutter => Mobile App development
-- 🎯 Goal: Becoming a skilled Mobile App developer
+<div align="center">
 
-### 🛠 Tech Stack
-- **Languages**: ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
- 
-- **Tools**:
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+# JongHyun.
 
+**Apps, thoughtfully built.**
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2049%20mins-blue?style=flat)
+앱을 만드는 일을 가장 좋아합니다.  
+쓰는 사람에게는 자연스럽고, 그 뒤에서는 제대로 동작하는 소프트웨어를 만들고 싶습니다.
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2015%20mins-blue?style=flat)
+[Featured app](#featured-app) · [Selected work](#selected-work) · [Toolbox](#toolbox) · [Contributions](#contributions)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-47.07%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+</div>
 
-**🐱 저의 GitHub 정보에요.** 
+---
 
-> 📦 GitHub의 297.5 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 1,406 만큼의 Contributions을 2026년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 50개의 Public Repository를 만들었어요. 
- > 
-> 🔑 28개의 Private Repository를 만들었어요. 
- > 
-**저는 저녁형 인간이에요. 🦉** 
+## Featured app
 
-```text
-🌞 아침                     3311 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-🌆 낮　                     4598 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-🌃 저녁                     8260 commits        ███████████░░░░░░░░░░░░░░   44.97 % 
-🌙 밤　                     2199 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-```
-📅 **제가 가장 생산적인 날은 금요일이에요.** 
+<a href="https://github.com/JongHyun070105/openloop"><img src="https://raw.githubusercontent.com/JongHyun070105/openloop/main/apps/demo/public/openloop-icon.png" alt="OpenLoop app icon" width="76" /></a>
 
-```text
-월요일                      2549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-화요일                      2349 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-수요일                      2542 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-목요일                      3081 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-금요일                      3131 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-토요일                      2487 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-일요일                      2229 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-```
+### OpenLoop
 
+**스크린샷 한 장에서, 해야 할 일까지.**
 
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
+채팅, 공지, 포스터처럼 여기저기 흩어진 정보를 캡처하면 AI가 일정과 할 일을 정리합니다.  
+바로 저장하지 않고 **사용자가 확인한 뒤** 캘린더·체크리스트로 이어지는 흐름을 만듭니다.
 
-```text
-🕑︎ Timezone: Asia/Seoul
+**Capture → Review → Close**
 
-💬 프로그래밍 언어들: 
-Python                   1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   32.30 % 
-Other                    1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Markdown                 43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-JSON                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+<sub>Flutter · FastAPI · AWS · AI-assisted scheduling</sub>
 
-🔥 에디터들: 
-Codex Exec               1 hr 53 mins        ██████████████░░░░░░░░░░░   55.01 % 
-Codex Vscode             1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.58 % 
-Notion                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Antigravity CLI          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+[Explore OpenLoop](https://github.com/JongHyun070105/openloop)
 
-🐱‍💻 프로젝트들: 
-village-coverage         1 hr 54 mins        ██████████████░░░░░░░░░░░   55.23 % 
-v1.4.3                   1 hr 13 mins        █████████░░░░░░░░░░░░░░░░   35.58 % 
-computer-network         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-w-192210-25d2aaf6        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-w-202931-3b4d1852        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+---
 
-💻 운영 체제들: 
-Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
-```
+## Selected work
 
-🤖 **AI Coding This Week** 
+### Review AI
+사진과 별점, 사용자 입력을 바탕으로 리뷰 문장 초안을 만드는 모바일 앱입니다.  
+<sub>React Native · Express · Image understanding</sub>  
+[View project](https://github.com/JongHyun070105/review-ai)
 
-```text
-⏱ AI Coding Time: 3 hrs 14 mins (94.07%)
+### VillageCoverage
+제한된 예산에서 지역별 생활서비스 공급안을 비교하고, 담당자가 근거와 한계를 확인할 수 있도록 만든 의사결정 지원 프로토타입입니다. **현장 검증 전** 단계입니다.  
+<sub>Python · FastAPI · Optimization · Public data</sub>  
+[View project](https://github.com/JongHyun070105/village-coverage) · [Try public demo](https://villagecoverage-public-demo-web.onrender.com)
 
-✍️ 2,554 lines written by AI, 0 lines written by hand (100.0% AI-written)
+### OrchBridge
+여러 AI 코딩 CLI의 작업을 연결하고, 대기열·위임·검증·복구를 관리하는 로컬 오케스트레이터입니다.  
+<sub>Python · CLI · Agent orchestration</sub>  
+[View project](https://github.com/JongHyun070105/orch-bridge)
 
-🔤 4,607,719 Input Tokens, 652,546 Output Tokens
+[Explore all repositories](https://github.com/JongHyun070105?tab=repositories)
 
-💵 $27.48 Estimated AI Cost This Week
+---
 
-🧠 36 AI Sessions, 37 AI Prompts
+## What I care about
 
-GPT                      2,560 lines         █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+**Small details.** 버튼 한 번, 확인 단계 하나가 사용 경험을 바꾼다고 생각합니다.
 
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 12,283 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
+**Useful software.** 기술을 보여주기보다 실제 문제를 해결하는 앱을 만들고 싶습니다.
 
-**저는 주로 Dart 언어를 사용해요.** 
+**The system behind the screen.** 앱의 UI뿐 아니라 API, 네트워크, 배포, 실패했을 때의 동작도 함께 고민합니다.
 
-```text
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-```
+---
 
+## Toolbox
 
+| | Working with |
+| :-- | :-- |
+| **Mobile** | Flutter · Dart · React Native · Swift · Kotlin |
+| **Web & API** | TypeScript · JavaScript · Python · FastAPI |
+| **Systems** | Git · GitHub Actions · AWS · Linux · Networking |
 
+<details>
+<summary>More about my projects</summary>
 
- Last Updated on 30/10/2026 21:01:41 UTC
-<!--END_SECTION:waka-->
+- **[TRON Compass](https://github.com/JongHyun070105/tron-compass)** — 사용자 규칙과 검증 가능한 근거를 중심으로 한 TRON 의사결정 실험
+- **[Comtus AI](https://github.com/JongHyun070105/comtus-ai)** — 모바일 게임 분석·자동화 아이디어 탐색
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JongHyun070105&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongHyun070105&layout=compact&langs_count=4&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&hide=c%2B%2B,cMake,typescript,javascript,c,php,html,jupyter%20notebook&hide_repo=EcoStep,mimir,git-session">
-</p>
+</details>
+
+---
+
+## Contributions
+
+실제 GitHub 활동을 기반으로 자동 생성되는 3D 기여 그래프입니다.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-season.svg" width="100%" alt="JongHyun's 3D GitHub contribution history" />
+</picture>
+
+<sub>Updated daily with GitHub Actions. The graph represents contributions, not lines of code.</sub>
+
+---
+
+<div align="center">
+
+*Make it useful. Make it feel simple.*
+
+[GitHub](https://github.com/JongHyun070105) · [All projects](https://github.com/JongHyun070105?tab=repositories)
+
+</div>
