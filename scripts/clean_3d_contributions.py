@@ -50,8 +50,9 @@ def parse_metrics(radar, summary):
 
 def add_live_metrics(svg, metrics):
     group = ET.SubElement(svg, Q("g"), {"id": "activity-metrics"})
-    # The upper left is intentionally left open by the original 3D layout.
-    positions = ((66, 66), (310, 66), (66, 174), (310, 174))
+    # Bottom-left whitespace lies below the diagonal 3D contribution calendar.
+    # The chart and the activity radar are deliberately left unobstructed.
+    positions = ((70, 625), (305, 625), (70, 735), (305, 735))
     for (label, value), (x, y) in zip(metrics, positions):
         title = ET.SubElement(group, Q("text"), {
             "x": str(x),
